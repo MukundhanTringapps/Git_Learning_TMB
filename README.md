@@ -38,16 +38,4 @@ git - revert / drop / undo commits
 -  Drop commit -> No history will be maintained. Dropping a commit loses all the changes made in that particular commit, loses all the traces
 - Undo commit -> Drop the commit but the file changes will be still valid
 
-
-
-
-
-
-
-
-
-
-
-
-
-
+git - cherry-pick a commit with intellij
