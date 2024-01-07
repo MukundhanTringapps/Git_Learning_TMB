@@ -32,3 +32,23 @@ git - adding new feature
 git - merge conflicts
 1. Merge conflicts happen when you merge branches that have competing commits and git needs your help to find the final change
 2. In most occasions git can automatically merge code
+
+git - revert / drop / undo commits
+- Revert maintains the reverted changes in the git log history, later if required we can cherry pick a commit to work from there.
+- 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

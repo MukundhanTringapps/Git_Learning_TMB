@@ -1,2 +1,4 @@
 This is simple text file
 Adding a new line to text file
+
+Adding a one more line to view the commit revert function
