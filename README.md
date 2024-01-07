@@ -34,10 +34,9 @@ git - merge conflicts
 2. In most occasions git can automatically merge code
 
 git - revert / drop / undo commits
-- Revert maintains the reverted changes in the git log history, later if required we can cherry pick a commit to work from there.
-- 
-
-
+- Revert / Reset commit -> History will be maintained in Git log. Revert maintains the reverted changes in the git log history, later if required we can cherry-pick a commit to work from there.
+-  Drop commit -> No history will be maintained. Dropping a commit loses all the changes made in that particular commit, loses all the traces
+- Undo commit -> Drop the commit but the file changes will be still valid
 
 
 
