@@ -34,8 +34,9 @@ git - merge conflicts
 2. In most occasions git can automatically merge code
 
 git - revert / drop / undo commits
-- Revert / Reset commit -> History will be maintained in Git log. Revert maintains the reverted changes in the git log history, later if required we can cherry-pick a commit to work from there.
--  Drop commit -> No history will be maintained. Dropping a commit loses all the changes made in that particular commit, loses all the traces
-- Undo commit -> Drop the commit but the file changes will be still valid
+1. Revert / Reset commit -> History will be maintained in Git log. Revert maintains the reverted changes in the git log history, later if required we can cherry-pick a commit to work from there.
+2. Drop commit -> No history will be maintained. Dropping a commit loses all the changes made in that particular commit, loses all the traces
+3. Undo commit -> Drop the commit but the file changes will be still valid
 
 git - cherry-pick a commit with intellij
+1. cherry-picking is the process of picking up the commits from one branch and applying it on the another
