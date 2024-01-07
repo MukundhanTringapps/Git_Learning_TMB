@@ -16,3 +16,15 @@ git push
 git pull
 1. Get the latest changes from remote to working copy
 2. pull is directly fetching code to remote to local + merge from local
+  
+git branches
+1. Branches create a new line of development without affecting the master / main branch
+
+git - adding new feature
+1. Pull latest changes
+2. Create a branch
+3. Make changes
+4. Commit the changes
+5. push the code to remote
+6. Create a pull request
+7. merge the code once approved
