@@ -12,3 +12,6 @@ git push
 1. moving your code from local to remote
 2. We need to have a GitHub account
 3. github account setup in Intellij
+
+git pull
+1. Get the latest changes from remote to working copy
