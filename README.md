@@ -15,3 +15,4 @@ git push
 
 git pull
 1. Get the latest changes from remote to working copy
+2. pull is directly fetching code to remote to local + merge from local
